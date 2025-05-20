@@ -1,0 +1,72 @@
+{
+    "Fruits": [
+        {
+            "fruitName": "Apple",
+            "fruitColor": "Red",
+            "price ($)": 1.5
+            
+        },
+
+        {
+            "fruitName": "Orange",
+            "fruitColor": "Orange",
+            "price ($)": 2
+        },
+
+        {
+            "fruitName": "Banana",
+            "fruitColor": "Yellow",
+            "price ($)": 0.5
+
+        },
+
+        {
+            "fruitName": "Grape",
+            "fruitColor": "Purple",
+            "price ($)": 0.1
+        },
+
+        {
+            "fruitName": "Mango",
+            "fruitColor": "RedOrange",
+            "price ($)": 1.5
+        },
+
+        {
+            "fruitName": "Lemon",
+            "fruitColor": "Yellow",
+            "price ($)": 1
+        },
+
+        {
+            "fruitName": "Lime",
+            "fruitColor": "Green",
+            "price ($)": 1
+        },
+
+        {
+            "fruitName": "Peach",
+            "fruitColor": "YellowOrange",
+            "price ($)": 1.75
+        },
+
+        {
+            "fruitName": "Watermelon",
+            "fruitColor": "Green, Red",
+            "price ($)": 1
+        },
+
+        {
+            "fruitName": "Cherry",
+            "fruitColor": "Red",
+            "price ($)": 0.1
+        },
+
+        {
+            "fruitName": "Pear",
+            "fruitColor": "Green",
+            "price ($)": 1.5
+        }
+
+    ]
+}
